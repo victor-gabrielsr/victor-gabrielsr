@@ -112,7 +112,7 @@ My current goal is to continue improving as a developer and eventually work with
 
 ## `> PROJECTS.list()`
 
-### `01 // CORPORATIVE SYSTEM`
+### `01 // CORPORATE SYSTEM`
 
 > **Main portfolio project**
 
@@ -124,23 +124,27 @@ A Full Stack project developed while studying and applying concepts related to f
 
 **Current challenge:** Database development and SQL Server.
 
-<!-- TODO: Replace with the real repository URL when the project is published. -->
+<!--
+TODO:
+The Corporate System is not published yet.
+When the repository is available, replace the placeholder below
+with the REAL GitHub repository URL.
 
-<a href="LINK_DO_CORPORATIVE_SYSTEM">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00e5ff?style=for-the-badge&logo=github&logoColor=black&labelColor=020617" alt="View Corporative System"/>
+Example:
+<a href="REAL_REPOSITORY_URL">
+-->
+
+<a href="LINK_DO_CORPORATE_SYSTEM">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00e5ff?style=for-the-badge&logo=github&logoColor=black&labelColor=020617" alt="View Corporate System"/>
 </a>
 
----
+<!--
+When the project is published, replace:
 
-### `02 // SCIENCE WORK`
+LINK_DO_CORPORATE_SYSTEM
 
-A project developed as part of my learning journey and already published on GitHub.
-
-<!-- TODO: Add the real repository URL. -->
-
-<a href="LINK_DO_SCIENCE_WORK">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00e5ff?style=for-the-badge&logo=github&logoColor=black&labelColor=020617" alt="View Science Work"/>
-</a>
+with the real repository URL.
+-->
 
 ---
 
@@ -174,34 +178,6 @@ A project developed as part of my learning journey and already published on GitH
 | `CURRENTLY LEARNING` |  `ASP.NET + SQL SERVER`  |
 | `NEXT TARGET`        |          `REACT`         |
 | `MODE`               |   `CONTINUOUS LEARNING`  |
-
-</div>
-
----
-
-## `> GITHUB_ANALYTICS()`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor.gbr&show_icons=true&theme=transparent&hide_border=true&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&bg_color=00000000" alt="Victor Gabriel GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor.gbr&layout=compact&theme=transparent&hide_border=true&title_color=00e5ff&text_color=c9d1d9&bg_color=00000000" alt="Top Languages"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Victor.gbr&theme=transparent&hide_border=true&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=808080" alt="GitHub Streak"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Victor.gbr&bg_color=00000000&color=c9d1d9&line=00e5ff&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -260,3 +236,4 @@ A project developed as part of my learning journey and already published on GitH
 `> Keep learning. Keep building.`
 
 </div>
+
