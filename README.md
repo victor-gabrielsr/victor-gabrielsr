@@ -59,13 +59,13 @@ My current goal is to continue improving as a developer and eventually work with
 
 ### 🎓 Technical Education
 
-* **Technical Course in Systems Analysis and Development**
+- **Technical Course in Systems Analysis and Development**  
   SESI Canaã / SENAI
 
-* **Technical Course in Web and Mobile Development**
+- **Technical Course in Web and Mobile Development**  
   Escola do Futuro — partnership with UFG
 
-* **Programming Course**
+- **Programming Course**  
   Rafael's programming course
 
 ---
@@ -90,7 +90,7 @@ My current goal is to continue improving as a developer and eventually work with
   <img src="https://skillicons.dev/icons?i=mysql" alt="Database icon"/>
 </p>
 
-> **Current Learning Stack**
+> **Current Learning Stack**  
 > These technologies represent the technologies I am currently learning and developing practical experience with.
 
 **Database:** SQL / SQL Server
@@ -129,9 +129,6 @@ TODO:
 The Corporate System is not published yet.
 When the repository is available, replace the placeholder below
 with the REAL GitHub repository URL.
-
-Example:
-<a href="REAL_REPOSITORY_URL">
 -->
 
 <a href="LINK_DO_CORPORATE_SYSTEM">
@@ -171,13 +168,13 @@ with the real repository URL.
 
 <div align="center">
 
-| SYSTEM               |          STATUS          |
-| :------------------- | :----------------------: |
-| `ROLE`               |  `DEVELOPER IN PROGRESS` |
-| `FOCUS`              | `FULL STACK DEVELOPMENT` |
-| `CURRENTLY LEARNING` |  `ASP.NET + SQL SERVER`  |
-| `NEXT TARGET`        |          `REACT`         |
-| `MODE`               |   `CONTINUOUS LEARNING`  |
+| SYSTEM | STATUS |
+|:---|:---:|
+| `ROLE` | `DEVELOPER IN PROGRESS` |
+| `FOCUS` | `FULL STACK DEVELOPMENT` |
+| `CURRENTLY LEARNING` | `ASP.NET + SQL SERVER` |
+| `NEXT TARGET` | `REACT` |
+| `MODE` | `CONTINUOUS LEARNING` |
 
 </div>
 
@@ -187,15 +184,7 @@ with the real repository URL.
 
 <div align="center">
 
-<!--
-  Snake animation requires a GitHub Actions workflow in the profile repository.
-  Repository name should normally match your GitHub username.
-
-  Example output file:
-  github-contribution-grid-snake.svg
--->
-
-<img src="https://raw.githubusercontent.com/Victor.gbr/Victor.gbr/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/victorgabrielvitinho8-dotcom/victorgabrielvitinho8/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -236,4 +225,3 @@ with the real repository URL.
 `> Keep learning. Keep building.`
 
 </div>
-
