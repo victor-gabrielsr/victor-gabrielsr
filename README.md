@@ -183,8 +183,22 @@ with the real repository URL.
 ## `> CONTRIBUTION_ACTIVITY`
 
 <div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/victorgabrielvitinho8-dotcom/victorgabrielvitinho8/output/github-contribution-grid-snake-dark.svg"
+  />
 
-<img src="https://raw.githubusercontent.com/victorgabrielvitinho8-dotcom/victorgabrielvitinho8/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/victorgabrielvitinho8-dotcom/victorgabrielvitinho8/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/victorgabrielvitinho8-dotcom/victorgabrielvitinho8/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
 
 </div>
 
