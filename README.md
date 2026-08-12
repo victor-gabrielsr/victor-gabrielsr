@@ -66,7 +66,7 @@ My current goal is to continue improving as a developer and eventually work with
   Escola do Futuro — partnership with UFG
 
 - **Programming Course**  
-  Rafael's programming course
+  Course of C#, APS.NET, HTML, CSS, JQUERY, BOOTSTRAP and SQL SERVER
 
 ---
 
