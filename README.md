@@ -131,12 +131,17 @@ A Full Stack project developed while studying and applying concepts related to f
 ### `01 // TASK SYSTEM`
 A Full Stack project developed while studying and applying concepts related to frontend, backend and database ORM(Object relational mapping) development.
 
+**Technologies used:**
+
+`C#` `ASP.NET` `Bootstrap` `jQuery` `SQL Server` `ORM`
+
+
 **Current challenge:** Improve and understand how an application with ORM works
 
 <a href="https://github.com/victor-gabrielsr/TaskSystem">
   <img src="https://img.shields.io/badge/VIEW%20PROJECT-00e5ff?style=for-the-badge&logo=github&logoColor=black&labelColor=020617" alt="View Corporate System"/>
 </a>
----
+
 
 ## `> CURRENT_OBJECTIVES.exe`
 
@@ -148,7 +153,7 @@ A Full Stack project developed while studying and applying concepts related to f
 │  > Improving SQL Server knowledge                            │
 │  > Building Full Stack projects                              │
 │  > Preparing for international opportunities                 │
-│  > Learning React                                            │
+│  > Learning ORM                                              │
 │                                                             │
 │  └── STATUS: LEARNING                                       │
 │                                                             │
