@@ -236,6 +236,6 @@ with the real repository URL.
 
 **Thanks for visiting my profile.**
 
-`> Keep learning. Keep building.`
+
 
 </div>
