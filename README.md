@@ -124,25 +124,18 @@ A Full Stack project developed while studying and applying concepts related to f
 
 **Current challenge:** Database development and SQL Server.
 
-<!--
-TODO:
-The Corporate System is not published yet.
-When the repository is available, replace the placeholder below
-with the REAL GitHub repository URL.
--->
-
 <a href="https://github.com/victor-gabrielsr/CorporateSystem">
   <img src="https://img.shields.io/badge/VIEW%20PROJECT-00e5ff?style=for-the-badge&logo=github&logoColor=black&labelColor=020617" alt="View Corporate System"/>
 </a>
 
-<!--
-When the project is published, replace:
+### `01 // TASK SYSTEM`
+A Full Stack project developed while studying and applying concepts related to frontend, backend and database ORM(Object relational mapping) development.
 
-LINK_DO_CORPORATE_SYSTEM
-     
-with the real repository URL.
--->
+**Current challenge:** Improve and understand how an application with ORM works
 
+<a href="https://github.com/victor-gabrielsr/TaskSystem">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00e5ff?style=for-the-badge&logo=github&logoColor=black&labelColor=020617" alt="View Corporate System"/>
+</a>
 ---
 
 ## `> CURRENT_OBJECTIVES.exe`
