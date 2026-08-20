@@ -212,19 +212,7 @@ A Full Stack project developed while studying and applying concepts related to f
 
 </div>
 
----
 
-## `> DEVELOPER_PHILOSOPHY`
-
-<div align="center">
-
-### `LEARN → BUILD → FAIL → UNDERSTAND → IMPROVE`
-
-> **Always learning. Always building. Always evolving.**
-
-</div>
-
----
 
 ## `> SYSTEM.SHUTDOWN()`
 
