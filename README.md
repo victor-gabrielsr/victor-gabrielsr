@@ -1,57 +1,31 @@
-<!-- =========================================================
-     VICTOR GABRIEL — GITHUB PROFILE
-     Replace only the placeholders marked with TODO.
-     ========================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:020617&height=200&section=header&text=VICTOR%20GABRIEL&fontSize=45&fontColor=00e5ff&fontAlignY=35&desc=Developer%20in%20Progress%20%7C%20Full%20Stack%20Developer&descSize=17&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:020617&height=200&section=header&text=VICTOR%20GABRIEL&fontSize=45&fontColor=00e5ff&fontAlignY=35&" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=INITIALIZING+DEVELOPER+PROFILE...;FULL+STACK+DEVELOPER+IN+PROGRESS;LEARNING+C%23+%7C+ASP.NET+%7C+SQL+SERVER;BUILDING+REAL+PROJECTS;ALWAYS+LEARNING..." alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=INITIALIZING+DEVELOPER+PROFILE...;DEVELOPER+IN+PROGRESS;..." alt="Typing animation"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00e5ff?style=for-the-badge&labelColor=020617" alt="Status Online"/>
-<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-00e5ff?style=for-the-badge&labelColor=020617" alt="Full Stack"/>
+
 <img src="https://img.shields.io/badge/LEARNING-IN%20PROGRESS-00e5ff?style=for-the-badge&labelColor=020617" alt="Learning"/>
 
 </div>
 
 ---
 
-## `> SYSTEM.INIT()`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                    DEVELOPER PROFILE                        │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  NAME       : Victor Gabriel                                │
-│  ROLE       : Developer in Progress                         │
-│  FOCUS      : Full Stack Development                         │
-│  EXPERIENCE : ~7 months of programming studies              │
-│  LOCATION   : Goiânia, Brazil                               │
-│  STATUS     : ONLINE / LEARNING                             │
-│                                                             │
-│  OBJECTIVE  : Build software and pursue                     │
-│               international development opportunities        │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
 
 ## `> ABOUT_ME.exe`
 
 Hi! I'm **Victor Gabriel**, a **Developer in Progress** focused on **Full Stack Development**.
 
-I've been studying programming for approximately **7 months**, combining technical education with independent learning and practical projects.
+I've been studying programming, combining technical education with independent learning and practical projects.
 
 Currently, I'm developing my knowledge in **C#, ASP.NET, SQL Server, HTML, CSS and JavaScript**, while building real applications to strengthen my understanding of software development.
 
 My current goal is to continue improving as a developer and eventually work with **international companies**.
 
-> **"Vontade de aprender."**
 
 ---
 
@@ -143,40 +117,6 @@ A Full Stack project developed while studying and applying concepts related to f
 </a>
 
 
-## `> CURRENT_OBJECTIVES.exe`
-
-```text
-┌──[ CURRENT OBJECTIVES ]─────────────────────────────────────┐
-│                                                             │
-│  > Deepening C# knowledge                                   │
-│  > Improving ASP.NET development                             │
-│  > Improving SQL Server knowledge                            │
-│  > Building Full Stack projects                              │
-│  > Preparing for international opportunities                 │
-│  > Learning ORM                                              │
-│                                                             │
-│  └── STATUS: LEARNING                                       │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `> SYSTEM_STATUS`
-
-<div align="center">
-
-| SYSTEM | STATUS |
-|:---|:---:|
-| `ROLE` | `DEVELOPER IN PROGRESS` |
-| `FOCUS` | `FULL STACK DEVELOPMENT` |
-| `CURRENTLY LEARNING` | `ASP.NET + SQL SERVER` |
-| `NEXT TARGET` | `REACT` |
-| `MODE` | `CONTINUOUS LEARNING` |
-
-</div>
-
----
 
 ## `> CONTRIBUTION_ACTIVITY`
 
@@ -214,7 +154,6 @@ A Full Stack project developed while studying and applying concepts related to f
 
 
 
-## `> SYSTEM.SHUTDOWN()`
 
 <div align="center">
 
