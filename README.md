@@ -8,9 +8,6 @@
 
 <br><br>
 
-
-<img src="https://img.shields.io/badge/LEARNING-IN%20PROGRESS-00e5ff?style=for-the-badge&labelColor=020617" alt="Learning"/>
-
 </div>
 
 ---
