@@ -64,7 +64,6 @@ My current goal is to continue improving as a developer and eventually work with
 > **Current Learning Stack**  
 > These technologies represent the technologies I am currently learning and developing practical experience with.
 
-**Database:** SQL / SQL Server
 
 ---
 
